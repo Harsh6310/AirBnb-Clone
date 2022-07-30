@@ -1,0 +1,55 @@
+.banner {
+    background: url(http://cdn.home-designing.com/wp-content/uploads/2018/11/luxury-living-room-ideas.jpg) center center;
+    height: 50vh ;
+    position: relative ;
+}
+
+.bannerSearch {
+    display: flex ;
+    flex-direction: column;
+}
+
+.bannerSearchButton {
+    background-color: white!important;
+    font-weight: 700!important;
+    text-transform: inherit!important;
+    color: #ff7779!important;
+}
+
+.bannerSearchButton:hover {
+    background-color: #ff7779 !important;
+    color: white !important;
+}
+
+.bannerInfo {
+    background: black;
+    color: white ;
+    padding-top: 15vh ;
+    padding-left: 50px ;
+    padding-right: 50px ;
+    padding-bottom: 40px ;
+    width: 300px ;
+}
+
+.bannerInfo h1 {
+    font-weight: 500;
+}
+
+.bannerInfo h5 {
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.bannerInfo button {
+    background-color: #ff7779;
+    color: white ;
+    text-transform: inherit;
+    margin-top: 20px ;
+    font-weight: 500;
+}
+
+.bannerInfo button:hover {
+    background-color: white ;
+    color: #ff7779 ;
+}
+
